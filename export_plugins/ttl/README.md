@@ -1,0 +1,3 @@
+### Export TTL Plugin
+
+The 'ttl' plugin facilitates the creation of export files from annotated tables in Wikidata. This tool converts the annotated data into Turtle triples, a popular format for representing RDF (Resource Description Framework) data. Users can effortlessly generate these export files to utilize in various semantic web applications, ensuring a smooth and structured data interchange.
